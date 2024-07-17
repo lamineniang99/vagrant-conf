@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/tomcat/webapps":{"guestpath":"/opt/tomcat/webapps","hostpath":"C:/Users/hp/Desktop/workspace/vagrant/install-jdk-tomcat-on-ubuntu/tomcatwebapps","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/hp/Desktop/workspace/vagrant/install-jdk-tomcat-on-ubuntu","disabled":false,"__vagrantfile":true}}}
